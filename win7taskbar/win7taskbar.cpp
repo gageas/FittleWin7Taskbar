@@ -1,4 +1,10 @@
 /*
+ * win7taskbar by gageas/nig_luce<nig.luce@gmail.com>
+ * 
+ * xdelfileをスケルトンとして利用させていただきました
+ */
+
+/*
  * xdelfile
  *
  * Copyright(C) 2004-2008 Mallow <mallow at livedoor.com>
